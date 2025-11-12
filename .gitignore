@@ -1,2 +1,3 @@
 models/*.pkl
 data/mnist_data.csv
+data/mnist_target.csv
