@@ -1,1 +1,2 @@
 models/*.pkl
+data/mnist_data.csv
