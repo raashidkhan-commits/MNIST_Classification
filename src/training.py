@@ -43,3 +43,4 @@ def get_or_train_model(force_train=False):
     X_train, y_train, X_test, y_test = load_split()
     y_train_5 = y_train == 5
     return train_and_save(X_train, y_train_5, path=MODEL_PATH)
+
